@@ -1,4 +1,5 @@
-# **Handy Clocks** ###_Developed by Alexander Grabowski for UW Madison Curric 576 Spring 2022_
+# **Handy Clocks**
+###_Developed by Alexander Grabowski for UW Madison Curric 576 Spring 2022_
 
 ### **Learning Objectice**
 Reading Analoug Clocks
